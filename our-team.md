@@ -24,7 +24,7 @@
  - สัตว์เลี้ยงที่ชอบ: สุนัขพันธุ์ Golden Retriever
 
 <h3 align="left">
- Interview by Jinnawat Vilairat
+ Interviewed by Jinnawat Vilairat
 </h3>
 
 <h1>
