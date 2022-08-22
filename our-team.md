@@ -30,10 +30,6 @@
 <h1>
 </h1>
 
-<h1 align="center">
- Our team information!
-</h1>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/111370275/185986021-a3cb5435-4b0f-49c6-8b48-34f1f493c42f.jpg" width="300" height="250">
 </p>
