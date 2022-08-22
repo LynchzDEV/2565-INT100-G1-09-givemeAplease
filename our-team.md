@@ -29,3 +29,32 @@
 
 <h1>
 </h1>
+
+<h1 align="center">
+ Our team information!
+</h1>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/111370275/185986021-a3cb5435-4b0f-49c6-8b48-34f1f493c42f.jpg" width="300" height="250">
+</p>
+
+<h3 align="center">
+ 2). Veerapat Dujyongthummakhun	
+</h3>
+
+<p align="center">
+   <a href="https://www.instagram.com/veerapat_a_/">Instagram Contact</a>
+</p>
+ 
+ - ชื่อที่อยากให้เพื่อนเรียก: อั๋น
+ - จังหวัดเกิด: กรุงเทพ
+ - สีที่ชอบ: เขียว 💚
+ - วงดนตรี/ศิลปินที่ชอบ: Tattoo color 🌈
+ - กีฬาที่ชอบ: บาสเกตบอล 🏀
+ - วันเกิด: 20 กันยายน 2546
+ - อาหารที่ชอบ: สเต็ก 🥩
+ - สัตว์เลี้ยงที่ชอบ: แมว 🐱
+ 
+ <h3 align="left">
+ Interviewed by Pakin Bunthr 🐷
+</h3>
