@@ -55,14 +55,15 @@
  Interviewed by Pakin Bunthr 🐷
 </h3>
 
-
+<h1>
+</h1>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/110712895/186064137-b9e06913-300a-4f52-98c2-af02c71104ab.jpeg" width="250" height="250">
 </p>
 
 <h3 align="center">
- 3). Pakin Bunthr!
+ 3). Pakin Bunthr
 
 </h3>
 
