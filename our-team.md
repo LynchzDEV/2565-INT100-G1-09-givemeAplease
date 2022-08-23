@@ -55,7 +55,8 @@
  Interviewed by Pakin Bunthr 🐷
 </h3>
 <p align="center">
-  <img src="" width="300" height="250">
+  <img src="https://user-images.githubusercontent.com/110712246/186105650-2ff6f149-3c8f-439d-8048-f02c69cdc8d6.jpg" width="300" height="250">
+
 </p>
 
 <h3 align="center">
