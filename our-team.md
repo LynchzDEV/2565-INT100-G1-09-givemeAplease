@@ -89,6 +89,34 @@
 </h1>
 
 <p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1007585180833292350/1011667183459389600/NEF_8147.jpg" width="250" height="250">
+</p>
+
+<h3 align="center">
+ 4). ปาม
+</h3>
+
+<p align="center">
+   <a href="https://www.instagram.com/jinn.palmy_">Instagram Contact</a>
+</p>
+ 
+ - ชื่อที่อยากให้เพื่อนเรียก: ปาม
+ - จังหวัดเกิด: ฉะเชิงเทรา
+ - สีที่ชอบ: ดำ
+ - วงดนตรี/ศิลปินที่ชอบ: Camellia
+ - กีฬาที่ชอบ: กรีทา
+ - วันเกิด: 2 ธันวาคม 2546
+ - อาหารที่ชอบ: ราเมง
+ - สัตว์เลี้ยงที่ชอบ: สุนัขพันธุ์ French Bulldog
+
+<h3 align="left">
+ Interviewed by Pongsapat Charoencharuskul
+</h3>
+
+<h1>
+</h1>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/93991274/185970801-91f55507-2993-439b-82d1-efd5b115492a.jpg" width="250" height="400">
 </p>
 
