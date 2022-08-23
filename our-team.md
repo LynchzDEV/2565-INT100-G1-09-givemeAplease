@@ -84,3 +84,28 @@
 <h3 align="left">
  Interviewed by Thanachanok Banjongjinda
 </h3>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/110712246/186105650-2ff6f149-3c8f-439d-8048-f02c69cdc8d6.jpg" width="300" height="350">
+
+</p>
+
+<h3 align="center">
+ 7). Nattapat Thaworn
+</h3>
+
+<p align="center">
+   <a href="">Instagram Contact</a>
+</p>
+ 
+ - ชื่อที่อยากให้เพื่อนเรียก: เปรม
+ - จังหวัดเกิด: กาฬสินธุ์
+ - สีที่ชอบ: ฟ้า
+ - วงดนตรี/ศิลปินที่ชอบ: The boyz
+ - กีฬาที่ชอบ: แบตมินตั้น
+ - วันเกิด: 18 มีนาคม 2547
+ - อาหารที่ชอบ: แซลม่อน
+ - สัตว์เลี้ยงที่ชอบ: จิ้งจอก
+ 
+ <h3 align="left">
+ Interviewed by Noppakrit Nitichaisatit
+</h3>
