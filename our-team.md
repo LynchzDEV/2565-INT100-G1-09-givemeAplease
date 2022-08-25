@@ -117,6 +117,34 @@
 </h1>
 
 <p align="center">
+  <img src="" height="250">
+</p>
+
+<h3 align="center">
+ 4). 
+</h3>
+
+<p align="center">
+   <a href="https://www.instagram.com/jinn.palmy_">Instagram Contact</a>
+</p>
+ 
+ - ชื่อที่อยากให้เพื่อนเรียก: 
+ - จังหวัดเกิด: 
+ - สีที่ชอบ: 
+ - วงดนตรี/ศิลปินที่ชอบ: 
+ - กีฬาที่ชอบ: 
+ - วันเกิด: 
+ - อาหารที่ชอบ: 
+ - สัตว์เลี้ยงที่ชอบ: 
+
+<h3 align="left">
+ Interviewed by 
+</h3>
+
+<h1>
+</h1>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/93991274/185970801-91f55507-2993-439b-82d1-efd5b115492a.jpg" height="300">
 </p>
 
