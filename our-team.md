@@ -73,7 +73,9 @@ Our team information!
  
  - **ชื่อที่อยากให้เพื่อนเรียก:** คิน
  - **จังหวัดเกิด:** สมุทรปราการ
- - **สีที่ชอบ:** แดง`reg(255,0,0,)`:red_circle:	, ดำ`rgb(0,0,0)`:black_circle:	, ขาว`(rgb(255,255,255)`:white_circle:	
+ - **สีที่ชอบ:** - แดง`rgb(255,0,0,)`:red_circle:
+               - ดำ`rgb(0,0,0)`:black_circle:
+               - ขาว`rgb(255,255,255)`:white_circle:	
  - **วงดนตรี/ศิลปินที่ชอบ:** [คณะขวัญใจ](https://www.facebook.com/KhanaKwanjai)
  - **กีฬาที่ชอบ:** สนุ๊กเกอร์:8ball:	
  - **วันเกิด:** 14/08/46
@@ -101,7 +103,7 @@ Our team information!
  
  - ชื่อที่อยากให้เพื่อนเรียก: ปาล์ม
  - จังหวัดเกิด: ฉะเชิงเทรา
- - สีที่ชอบ: ดำ:black_medium_square:	
+ - สีที่ชอบ: ดำ`rgb(0,0,0)`:black_medium_square:	
  - วงดนตรี/ศิลปินที่ชอบ: [Camellia](https://www.youtube.com/c/Kamelcamellia):headphones:	
  - กีฬาที่ชอบ: กรีทา:runner:
  - วันเกิด: 2 ธันวาคม 2546
@@ -129,7 +131,7 @@ Our team information!
  
  - **ชื่อที่อยากให้เพื่อนเรียก:** ตอง
  - **จังหวัดเกิด:** กรุงเทพ ฯ
- - **สีที่ชอบ:** เขียว:green_book:	
+ - **สีที่ชอบ:** เขียว`rgb(0,255,0)`:green_book:	
  - **วงดนตรี/ศิลปินที่ชอบ:** [Tarik](https://open.spotify.com/artist/50fXnXorfeP9GKt1QZxgO3):microphone:	
  - **กีฬาที่ชอบ:** ฟุตบอล:soccer:	
  - **วันเกิด:** 9 กุมภาพันธ์ 2547
@@ -157,7 +159,7 @@ Our team information!
 
  - **ชื่อที่อยากให้เพื่อนเรียก:** สามารถ/แชมเปี้ยน
  - **จังหวัดเกิด:** กรุงเทพ ฯ
- - **สีที่ชอบ:** ฟ้า:large_blue_circle:	
+ - **สีที่ชอบ:** ฟ้า`rgb(5,195,221)`:large_blue_circle:	
  - **วงดนตรี/ศิลปินที่ชอบ:** [Tilly birds](https://www.facebook.com/TILLYBIRDS):guitar:	
  - **กีฬาที่ชอบ:** บาสเกตบอล:basketball_man:
  - **วันเกิด:** 10 ก.ย. 2546
@@ -185,7 +187,7 @@ Our team information!
  
  - **ชื่อที่อยากให้เพื่อนเรียก:** เปรม
  - **จังหวัดเกิด:** กาฬสินธุ์
- - **สีที่ชอบ:** ฟ้า:blue_square:	
+ - **สีที่ชอบ:** ฟ้า`rgb(5,195,221)`:blue_square:	
  - **วงดนตรี/ศิลปินที่ชอบ:** [The boyz](https://www.youtube.com/c/THEBOYZofficial/videos):studio_microphone:	
  - **กีฬาที่ชอบ:** แบตมินตัน:badminton:	
  - **วันเกิด:** 18 มีนาคม 2547
