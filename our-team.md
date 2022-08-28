@@ -95,7 +95,7 @@ Our team information!
 <!-- ------------Pongsapat Charoencharuskul------------- -->
 
 <p align="center">
-  <img src="">
+  <img src="https://cdn.discordapp.com/attachments/1007585180833292350/1011667183459389600/NEF_8147.jpg" height="250">
 </p>
 
 <h3 align="center">
@@ -103,17 +103,17 @@ Our team information!
 </h3>
 
 <p align="center">
-   <a href="">Instagram Contact</a>
+   <a href="https://www.instagram.com/jinn.palmy_">Instagram Contact</a>
 </p>
  
- - ชื่อที่อยากให้เพื่อนเรียก: 
- - จังหวัดเกิด:
- - สีที่ชอบ: 
- - วงดนตรี/ศิลปินที่ชอบ: 
- - กีฬาที่ชอบ: 
- - วันเกิด:
- - อาหารที่ชอบ:
- - สัตว์เลี้ยงที่ชอบ: 
+ - ชื่อที่อยากให้เพื่อนเรียก: ปาล์ม
+ - จังหวัดเกิด: ฉะเชิงเทรา
+ - สีที่ชอบ: ดำ`rgb(0,0,0)`:black_medium_square:	
+ - วงดนตรี/ศิลปินที่ชอบ: [Camellia](https://www.youtube.com/c/Kamelcamellia):headphones:	
+ - กีฬาที่ชอบ: กรีทา:runner:
+ - วันเกิด: 2 ธันวาคม 2546
+ - อาหารที่ชอบ: ราเมน:ramen:	
+ - สัตว์เลี้ยงที่ชอบ: สุนัขพันธุ์ French Bulldog:dog:	
 
 ###### Interviewed by _Pongsapat Charoencharuskul_
 
