@@ -15,7 +15,7 @@ Our team information!
 </p>
  
  - **ชื่อที่อยากให้เพื่อนเรียก:** เอิร์น & ครัวซองค์ :croissant:	
- - **จังหวัดเกิด:** กรุงเทพ ฯ :thailand:
+ - **จังหวัดเกิด:** กรุงเทพ ฯ
  - **สีที่ชอบ:** ชมพู :soap:
  - **วงดนตรี/ศิลปินที่ชอบ:** [Zweed n’roll](https://www.youtube.com/channel/UCwAs_r3T4QPxlwnIpZH775g) :musical_note:
  - **กีฬาที่ชอบ:** แบดมินตัน :badminton:	
