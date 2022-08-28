@@ -23,7 +23,7 @@ Our team information!
  - **อาหารที่ชอบ:** ข้าวไข่ข้นเบคอน
  - **สัตว์เลี้ยงที่ชอบ:** สุนัขพันธุ์ Golden Retriever :dog2:	
 
-Interviewed by **_Jinnawat Vilairat_**
+###### Interviewed by _Jinnawat Vilairat_
 
 <h1>
 </h1>
@@ -49,7 +49,7 @@ Interviewed by **_Jinnawat Vilairat_**
  - **อาหารที่ชอบ:** สเต็ก :shallow_pan_of_food:	
  - **สัตว์เลี้ยงที่ชอบ:** แมว :cat2:	
  
-Interviewed by **_Pakin Bunthr_** :pig:	
+###### Interviewed by _Pakin Bunthr_ :pig:	
 
 <h1>
 </h1>
@@ -67,19 +67,17 @@ Interviewed by **_Pakin Bunthr_** :pig:
    <a href="https://www.instagram.com/kinx_s1va/">Instagram Contact</a>
 </p>
  
- - ชื่อที่อยากให้เพื่อนเรียก:คิน
- - จังหวัดเกิด:สมุทรปราการ
- - สีที่ชอบ:แดง/ดำ/ขาว
- - วงดนตรี/ศิลปินที่ชอบ:คณะขวัญใจ
- - กีฬาที่ชอบ:สนุ๊กเกอร์
- - วันเกิด:14/08/46
- - อาหารที่ชอบ:ผัดพริกแกงหมูกรอบไข่ข้น 
- - สัตว์เลี้ยงที่ชอบ:แมว
- - contact:IG : kinx_s1va
+ - ชื่อที่อยากให้เพื่อนเรียก: คิน
+ - จังหวัดเกิด: สมุทรปราการ
+ - สีที่ชอบ: แดง/ดำ/ขาว
+ - วงดนตรี/ศิลปินที่ชอบ: คณะขวัญใจ
+ - กีฬาที่ชอบ: สนุ๊กเกอร์
+ - วันเกิด: 14/08/46
+ - อาหารที่ชอบ: ผัดพริกแกงหมูกรอบไข่ข้น 
+ - สัตว์เลี้ยงที่ชอบ: แมว
 
-<h3 align="left">
- Interviewed by Thanachanok Banjongjinda
-</h3>
+###### Interviewed by _Thanachanok Banjongjinda_
+
 
 <h1>
 </h1>
