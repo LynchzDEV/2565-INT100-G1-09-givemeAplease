@@ -5,7 +5,7 @@ Our team information!
 <!-- ----------------Jinnawat Vilairat------------------ -->
 
 <p align="center">
-  <img src="">
+  <img src="https://user-images.githubusercontent.com/100924535/185970557-f8dae058-eb03-4396-ae17-3054decf5ba0.jpg" width="250" height="250">
 </p>
 
 <h3 align="center">
@@ -13,17 +13,17 @@ Our team information!
 </h3>
 
 <p align="center">
-   <a href="">Instagram Contact</a>
+   <a href="https://instagram.com/arenleys?igshid=YmMyMTA2M2Y=">Instagram Contact</a>
 </p>
  
- - **ชื่อที่อยากให้เพื่อนเรียก:** 
- - **จังหวัดเกิด:** 
- - **สีที่ชอบ:** 
- - **วงดนตรี/ศิลปินที่ชอบ:** 
- - **กีฬาที่ชอบ:** 
- - **วันเกิด:** 
- - **อาหารที่ชอบ:** 
- - **สัตว์เลี้ยงที่ชอบ:** 
+ - **ชื่อที่อยากให้เพื่อนเรียก:** เอิร์น & ครัวซองค์ :croissant:	
+ - **จังหวัดเกิด:** กรุงเทพ ฯ
+ - **สีที่ชอบ:** ชมพู `rgb(255,192,203)` :soap:
+ - **วงดนตรี/ศิลปินที่ชอบ:** [Zweed n’roll](https://www.youtube.com/channel/UCwAs_r3T4QPxlwnIpZH775g) :musical_note:
+ - **กีฬาที่ชอบ:** แบดมินตัน :badminton:	
+ - **วันเกิด:** 9 กุมพาพันธ์ 2547
+ - **อาหารที่ชอบ:** ข้าวไข่ข้นเบคอน
+ - **สัตว์เลี้ยงที่ชอบ:** สุนัขพันธุ์ Golden Retriever :dog2:	
 
 ###### Interviewed by _Jinnawat Vilairat_
 
