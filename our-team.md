@@ -28,6 +28,8 @@ Our team information!
 <h1>
 </h1>
 
+<!-- --------------------------------------------------- -->
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/111370275/185986021-a3cb5435-4b0f-49c6-8b48-34f1f493c42f.jpg" height="250">
 </p>
@@ -54,6 +56,8 @@ Our team information!
 <h1>
 </h1>
 
+<!-- --------------------------------------------------- -->
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/110712895/186064137-b9e06913-300a-4f52-98c2-af02c71104ab.jpeg" height="300">
 </p>
@@ -67,20 +71,21 @@ Our team information!
    <a href="https://www.instagram.com/kinx_s1va/">Instagram Contact</a>
 </p>
  
- - ชื่อที่อยากให้เพื่อนเรียก: คิน
- - จังหวัดเกิด: สมุทรปราการ
- - สีที่ชอบ: แดง/ดำ/ขาว
- - วงดนตรี/ศิลปินที่ชอบ: คณะขวัญใจ
- - กีฬาที่ชอบ: สนุ๊กเกอร์
- - วันเกิด: 14/08/46
- - อาหารที่ชอบ: ผัดพริกแกงหมูกรอบไข่ข้น 
- - สัตว์เลี้ยงที่ชอบ: แมว
+ - **ชื่อที่อยากให้เพื่อนเรียก:** คิน
+ - **จังหวัดเกิด:** สมุทรปราการ
+ - **สีที่ชอบ:** แดง:red_circle:	, ดำ:black_circle:	, ขาว:white_circle:	
+ - **วงดนตรี/ศิลปินที่ชอบ:** [คณะขวัญใจ](https://www.facebook.com/KhanaKwanjai)
+ - **กีฬาที่ชอบ:** สนุ๊กเกอร์:8ball:	
+ - **วันเกิด:** 14/08/46
+ - **อาหารที่ชอบ:** ผัดพริกแกงหมูกรอบไข่ข้น 
+ - **สัตว์เลี้ยงที่ชอบ:** แมว:smiley_cat:	
 
 ###### Interviewed by _Thanachanok Banjongjinda_
 
-
 <h1>
 </h1>
+
+<!-- --------------------------------------------------- -->
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1007585180833292350/1011667183459389600/NEF_8147.jpg" height="250">
@@ -96,20 +101,19 @@ Our team information!
  
  - ชื่อที่อยากให้เพื่อนเรียก: ปาล์ม
  - จังหวัดเกิด: ฉะเชิงเทรา
- - สีที่ชอบ: ดำ
- - วงดนตรี/ศิลปินที่ชอบ: Camellia
- - กีฬาที่ชอบ: กรีทา
+ - สีที่ชอบ: ดำ:black_medium_square:	
+ - วงดนตรี/ศิลปินที่ชอบ: [Camellia](https://www.youtube.com/c/Kamelcamellia):headphones:	
+ - กีฬาที่ชอบ: กรีทา:runner:
  - วันเกิด: 2 ธันวาคม 2546
- - อาหารที่ชอบ: ราเมน
- - สัตว์เลี้ยงที่ชอบ: สุนัขพันธุ์ French Bulldog
+ - อาหารที่ชอบ: ราเมน:ramen:	
+ - สัตว์เลี้ยงที่ชอบ: สุนัขพันธุ์ French Bulldog:dog:	
 
-<h3 align="left">
- Interviewed by Pongsapat Charoencharuskul
-</h3>
+###### Interviewed by _Pongsapat Charoencharuskul_
 
 <h1>
 </h1>
 
+<!-- --------------------------------------------------- -->
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/111488346/186746057-df36b5a8-0c4f-4cb6-8b79-e1de896cb31c.jpg" height="250">
@@ -123,21 +127,21 @@ Our team information!
    <a href="https://www.instagram.com/_tongpc/">Instagram Contact</a>
 </p>
  
- - ชื่อที่อยากให้เพื่อนเรียก: ตอง
- - จังหวัดเกิด: กรุงเทพ
- - สีที่ชอบ: เขียว
- - วงดนตรี/ศิลปินที่ชอบ: Tarik
- - กีฬาที่ชอบ: ฟุตบอล
- - วันเกิด: 9 กุมภาพันธ์ 2547
- - อาหารที่ชอบ: ทงคัตสึ
- - สัตว์เลี้ยงที่ชอบ: สุนัข
+ - **ชื่อที่อยากให้เพื่อนเรียก:** ตอง
+ - **จังหวัดเกิด:** กรุงเทพ ฯ
+ - **สีที่ชอบ:** เขียว:green_book:	
+ - **วงดนตรี/ศิลปินที่ชอบ:** [Tarik](https://open.spotify.com/artist/50fXnXorfeP9GKt1QZxgO3):microphone:	
+ - **กีฬาที่ชอบ:** ฟุตบอล:soccer:	
+ - **วันเกิด:** 9 กุมภาพันธ์ 2547
+ - **อาหารที่ชอบ:** ทงคัตสึ:bento:	
+ - **สัตว์เลี้ยงที่ชอบ:** สุนัข:service_dog:	
 
-<h3 align="left">
- Interviewed by Nattapat Thaworn
-</h3>
+###### Interviewed by _Nattapat Thaworn_
 
 <h1>
 </h1>
+
+<!-- --------------------------------------------------- -->
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/93991274/185970801-91f55507-2993-439b-82d1-efd5b115492a.jpg" height="300">
@@ -151,21 +155,21 @@ Our team information!
    <a href="https://www.instagram.com/smootysmart/">Instagram Contact</a>
 </p>
 
- - ชื่อที่อยากให้เพื่อนเรียก: สามารถ/แชมเปี้ยน
- - จังหวัดเกิด: กรุงเทพ
- - สีที่ชอบ: ฟ้า
- - วงดนตรี/ศิลปินที่ชอบ: tilly birds
- - กีฬาที่ชอบ: บาสเกตบอล
- - วันเกิด: 10 ก.ย. 2546
- - อาหารที่ชอบ: มักกะโรนี
- - สัตว์เลี้ยงที่ชอบ: สุนัข pomeranian
+ - **ชื่อที่อยากให้เพื่อนเรียก:** สามารถ/แชมเปี้ยน
+ - **จังหวัดเกิด:** กรุงเทพ ฯ
+ - **สีที่ชอบ:** ฟ้า:large_blue_circle:	
+ - **วงดนตรี/ศิลปินที่ชอบ:** [Tilly birds](https://www.facebook.com/TILLYBIRDS):guitar:	
+ - **กีฬาที่ชอบ:** บาสเกตบอล:basketball_man:
+ - **วันเกิด:** 10 ก.ย. 2546
+ - **อาหารที่ชอบ:** มักกะโรนี:stew:	
+ - **สัตว์เลี้ยงที่ชอบ:** สุนัขพันธ์ Pomeranian:dog:	
 
- <h3 align="left">
- Interviewed by Veerapat Dujyongthummakhun
-</h3>
+###### Interviewed by _Veerapat Dujyongthummakhun_
 
 <h1>
 </h1>
+
+<!-- --------------------------------------------------- -->
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/110712246/186105650-2ff6f149-3c8f-439d-8048-f02c69cdc8d6.jpg" height="300">
@@ -176,19 +180,16 @@ Our team information!
 </h3>
 
 <p align="center">
-   <a href="">Instagram Contact</a>
+   <a href="https://www.instagram.com/p_ntpt">Instagram Contact</a>
 </p>
  
- - ชื่อที่อยากให้เพื่อนเรียก: เปรม
- - จังหวัดเกิด: กาฬสินธุ์
- - สีที่ชอบ: ฟ้า
- - วงดนตรี/ศิลปินที่ชอบ: The boyz
- - กีฬาที่ชอบ: แบตมินตั้น
- - วันเกิด: 18 มีนาคม 2547
- - อาหารที่ชอบ: แซลม่อน
- - สัตว์เลี้ยงที่ชอบ: จิ้งจอก
+ - **ชื่อที่อยากให้เพื่อนเรียก:** เปรม
+ - **จังหวัดเกิด:** กาฬสินธุ์
+ - **สีที่ชอบ:** ฟ้า:blue_square:	
+ - **วงดนตรี/ศิลปินที่ชอบ:** [The boyz](https://www.youtube.com/c/THEBOYZofficial/videos):studio_microphone:	
+ - **กีฬาที่ชอบ:** แบตมินตัน:badminton:	
+ - **วันเกิด:** 18 มีนาคม 2547
+ - **อาหารที่ชอบ:** แซลม่อน:fish:	
+ - **สัตว์เลี้ยงที่ชอบ:** จิ้งจอก:fox_face:	
  
- <h3 align="left">
- Interviewed by Noppakrit Nitichaisatit
-</h3>
-
+###### Interviewed by _Noppakrit Nitichaisatit_
