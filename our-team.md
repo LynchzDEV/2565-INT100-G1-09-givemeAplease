@@ -1,5 +1,5 @@
 <h1 align="center">
- Our team information!
+Our team information!
 </h1>
 
 <p align="center">
@@ -14,18 +14,17 @@
    <a href="https://instagram.com/arenleys?igshid=YmMyMTA2M2Y=">Instagram Contact</a>
 </p>
  
- - ชื่อที่อยากให้เพื่อนเรียก: เอิร์น & ครัวซองค์
- - จังหวัดเกิด: กรุงเทพ
- - สีที่ชอบ: ชมพู
- - วงดนตรี/ศิลปินที่ชอบ: Zweed n’roll
- - กีฬาที่ชอบ: แบดมินตัน
- - วันเกิด: 9 กุมพาพันธ์ 2547
- - อาหารที่ชอบ: ข้าวไข่ข้นเบคอน
- - สัตว์เลี้ยงที่ชอบ: สุนัขพันธุ์ Golden Retriever
+ - **ชื่อที่อยากให้เพื่อนเรียก:** เอิร์น & ครัวซองค์ :croissant:	
+ - **จังหวัดเกิด:** กรุงเทพ ฯ
+ - **สีที่ชอบ:** ชมพู
+ - **วงดนตรี/ศิลปินที่ชอบ:** [Zweed n’roll](https://www.youtube.com/channel/UCwAs_r3T4QPxlwnIpZH775g)
+ - **กีฬาที่ชอบ:** แบดมินตัน
+ - **วันเกิด:** 9 กุมพาพันธ์ 2547
+ - **อาหารที่ชอบ:** ข้าวไข่ข้นเบคอน
+ - **สัตว์เลี้ยงที่ชอบ:** สุนัขพันธุ์ Golden Retriever
+ - **Git user:** @Earniesty 
 
-<h3 align="left">
- Interviewed by Jinnawat Vilairat
-</h3>
+####  Interviewed by _Jinnawat Vilairat_
 
 <h1>
 </h1>
