@@ -15,13 +15,13 @@ Our team information!
 </p>
  
  - **ชื่อที่อยากให้เพื่อนเรียก:** เอิร์น & ครัวซองค์ :croissant:	
- - **จังหวัดเกิด:** กรุงเทพ ฯ
- - **สีที่ชอบ:** ชมพู
- - **วงดนตรี/ศิลปินที่ชอบ:** [Zweed n’roll](https://www.youtube.com/channel/UCwAs_r3T4QPxlwnIpZH775g)
- - **กีฬาที่ชอบ:** แบดมินตัน
+ - **จังหวัดเกิด:** กรุงเทพ ฯ :thailand:
+ - **สีที่ชอบ:** ชมพู :soap:
+ - **วงดนตรี/ศิลปินที่ชอบ:** [Zweed n’roll](https://www.youtube.com/channel/UCwAs_r3T4QPxlwnIpZH775g) :musical_note:
+ - **กีฬาที่ชอบ:** แบดมินตัน :badminton:	
  - **วันเกิด:** 9 กุมพาพันธ์ 2547
  - **อาหารที่ชอบ:** ข้าวไข่ข้นเบคอน
- - **สัตว์เลี้ยงที่ชอบ:** สุนัขพันธุ์ Golden Retriever
+ - **สัตว์เลี้ยงที่ชอบ:** สุนัขพันธุ์ Golden Retriever :dog2:	
  - **Git user:** @Earniesty 
 
 ####  Interviewed by _Jinnawat Vilairat_
