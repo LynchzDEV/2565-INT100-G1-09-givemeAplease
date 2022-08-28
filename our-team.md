@@ -123,7 +123,7 @@ Our team information!
 <!-- ----------------Nattapat Thaworn------------------ -->
 
 <p align="center">
-  <img src="">
+  <img src="https://user-images.githubusercontent.com/111488346/186746057-df36b5a8-0c4f-4cb6-8b79-e1de896cb31c.jpg" height="250">
 </p>
 
 <h3 align="center">
@@ -131,22 +131,23 @@ Our team information!
 </h3>
 
 <p align="center">
-   <a href="">Instagram Contact</a>
+   <a href="https://www.instagram.com/_tongpc/">Instagram Contact</a>
 </p>
  
- - **ชื่อที่อยากให้เพื่อนเรียก:** 
- - **จังหวัดเกิด:** 
- - **สีที่ชอบ:** 
- - **วงดนตรี/ศิลปินที่ชอบ:** 
- - **กีฬาที่ชอบ:** 
- - **วันเกิด:** 
- - **อาหารที่ชอบ:** 
- - **สัตว์เลี้ยงที่ชอบ:** 
+ - **ชื่อที่อยากให้เพื่อนเรียก:** ตอง
+ - **จังหวัดเกิด:** กรุงเทพ ฯ
+ - **สีที่ชอบ:** เขียว`rgb(0,255,0)`:green_book:	
+ - **วงดนตรี/ศิลปินที่ชอบ:** [Tarik](https://open.spotify.com/artist/50fXnXorfeP9GKt1QZxgO3):microphone:	
+ - **กีฬาที่ชอบ:** ฟุตบอล:soccer:	
+ - **วันเกิด:** 9 กุมภาพันธ์ 2547
+ - **อาหารที่ชอบ:** ทงคัตสึ:bento:	
+ - **สัตว์เลี้ยงที่ชอบ:** สุนัข:service_dog:	
 
 ###### Interviewed by _Nattapat Thaworn_
 
 <h1>
 </h1>
+
 
 <!-- -------------Veerapat Dujyongthummakhun----------- -->
 
