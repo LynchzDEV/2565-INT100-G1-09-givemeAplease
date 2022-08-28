@@ -143,9 +143,6 @@ Our team information!
  - อาหารที่ชอบ: ทงคัตสึ
  - สัตว์เลี้ยงที่ชอบ: สุนัข
 
-<h3 align="left">
- Interviewed by Nattapat Thaworn
-
 ###### Interviewed by _Nattapat Thaworn_
 
 <h1>
