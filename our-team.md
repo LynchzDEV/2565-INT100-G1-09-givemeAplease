@@ -44,7 +44,7 @@ Our team information!
  
  - **ชื่อที่อยากให้เพื่อนเรียก:** อั๋น
  - **จังหวัดเกิด:** กรุงเทพ ฯ
- - **สีที่ชอบ:** เขียว :green_heart:	
+ - **สีที่ชอบ:** เขียว`rgb(0,255,0)`:green_heart:	
  - **วงดนตรี/ศิลปินที่ชอบ:** [Tattoo color](https://www.facebook.com/tattoocolour/) :notes:	
  - **กีฬาที่ชอบ:** บาสเกตบอล :basketball:	
  - **วันเกิด:** 20 กันยายน 2546
@@ -73,7 +73,7 @@ Our team information!
  
  - **ชื่อที่อยากให้เพื่อนเรียก:** คิน
  - **จังหวัดเกิด:** สมุทรปราการ
- - **สีที่ชอบ:** แดง:red_circle:	, ดำ:black_circle:	, ขาว:white_circle:	
+ - **สีที่ชอบ:** แดง`reg(255,0,0,)`:red_circle:	, ดำ`rgb(0,0,0)`:black_circle:	, ขาว`(rgb(255,255,255)`:white_circle:	
  - **วงดนตรี/ศิลปินที่ชอบ:** [คณะขวัญใจ](https://www.facebook.com/KhanaKwanjai)
  - **กีฬาที่ชอบ:** สนุ๊กเกอร์:8ball:	
  - **วันเกิด:** 14/08/46
