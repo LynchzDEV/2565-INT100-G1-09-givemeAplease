@@ -62,7 +62,7 @@ Our team information!
 <!-- -------------Thanachanok Banjongjinda-------------- -->
 
 <p align="center">
-  <img src="">
+  <img src="https://user-images.githubusercontent.com/110712895/186064137-b9e06913-300a-4f52-98c2-af02c71104ab.jpeg" height="300">
 </p>
 
 <h3 align="center">
@@ -71,22 +71,26 @@ Our team information!
 </h3>
 
 <p align="center">
-   <a href="">Instagram Contact</a>
+   <a href="https://www.instagram.com/kinx_s1va/">Instagram Contact</a>
 </p>
  
- - **ชื่อที่อยากให้เพื่อนเรียก:** 
- - **จังหวัดเกิด:** 
+ - **ชื่อที่อยากให้เพื่อนเรียก:** คิน
+ - **จังหวัดเกิด:** สมุทรปราการ
  - **สีที่ชอบ:** 
- - **วงดนตรี/ศิลปินที่ชอบ:** 
- - **กีฬาที่ชอบ:** 
- - **วันเกิด:** 
- - **อาหารที่ชอบ:** 
- - **สัตว์เลี้ยงที่ชอบ:** 
+    - แดง`rgb(255,0,0,)`:red_circle:
+    - ดำ`rgb(0,0,0)`:black_circle:
+    - ขาว`rgb(255,255,255)`:white_circle:	
+ - **วงดนตรี/ศิลปินที่ชอบ:** [คณะขวัญใจ](https://www.facebook.com/KhanaKwanjai)
+ - **กีฬาที่ชอบ:** สนุ๊กเกอร์:8ball:	
+ - **วันเกิด:** 14/08/46
+ - **อาหารที่ชอบ:** ผัดพริกแกงหมูกรอบไข่ข้น 
+ - **สัตว์เลี้ยงที่ชอบ:** แมว:smiley_cat:	
 
 ###### Interviewed by _Thanachanok Banjongjinda_
 
 <h1>
 </h1>
+
 
 <!-- ------------Pongsapat Charoencharuskul------------- -->
 
