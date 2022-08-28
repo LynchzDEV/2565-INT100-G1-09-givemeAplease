@@ -2,6 +2,8 @@
 Our team information!
 </h1>
 
+<!-- ----------------Jinnawat Vilairat------------------ -->
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/100924535/185970557-f8dae058-eb03-4396-ae17-3054decf5ba0.jpg" width="250" height="250">
 </p>
@@ -28,7 +30,7 @@ Our team information!
 <h1>
 </h1>
 
-<!-- --------------------------------------------------- -->
+<!-- -------------------Pakin Bunthr-------------------- -->
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/111370275/185986021-a3cb5435-4b0f-49c6-8b48-34f1f493c42f.jpg" height="250">
@@ -56,7 +58,7 @@ Our team information!
 <h1>
 </h1>
 
-<!-- --------------------------------------------------- -->
+<!-- -------------Thanachanok Banjongjinda-------------- -->
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/110712895/186064137-b9e06913-300a-4f52-98c2-af02c71104ab.jpeg" height="300">
@@ -88,7 +90,7 @@ Our team information!
 <h1>
 </h1>
 
-<!-- --------------------------------------------------- -->
+<!-- ------------Pongsapat Charoencharuskul------------- -->
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1007585180833292350/1011667183459389600/NEF_8147.jpg" height="250">
@@ -116,7 +118,7 @@ Our team information!
 <h1>
 </h1>
 
-<!-- --------------------------------------------------- -->
+<!-- ----------------Nattapat Thaworn------------------ -->
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/111488346/186746057-df36b5a8-0c4f-4cb6-8b79-e1de896cb31c.jpg" height="250">
@@ -144,7 +146,7 @@ Our team information!
 <h1>
 </h1>
 
-<!-- --------------------------------------------------- -->
+<!-- -------------Veerapat Dujyongthummakhun----------- -->
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/93991274/185970801-91f55507-2993-439b-82d1-efd5b115492a.jpg" height="300">
@@ -172,7 +174,7 @@ Our team information!
 <h1>
 </h1>
 
-<!-- --------------------------------------------------- -->
+<!-- ---------------Noppakrit Nitichaisatit------------- -->
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/110712246/186105650-2ff6f149-3c8f-439d-8048-f02c69cdc8d6.jpg" height="300">
