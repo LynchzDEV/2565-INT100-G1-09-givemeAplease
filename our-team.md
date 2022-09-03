@@ -152,7 +152,7 @@ Our team information!
 <!-- -------------Veerapat Dujyongthummakhun----------- -->
 
 <p align="center">
-  <img src="">
+  <img src="https://user-images.githubusercontent.com/93991274/185970801-91f55507-2993-439b-82d1-efd5b115492a.jpg" height="300">
 </p>
 
 <h3 align="center">
@@ -160,17 +160,17 @@ Our team information!
 </h3>
 
 <p align="center">
-   <a href="">Instagram Contact</a>
+   <a href="https://www.instagram.com/smootysmart/">Instagram Contact</a>
 </p>
 
- - **ชื่อที่อยากให้เพื่อนเรียก:** 
- - **จังหวัดเกิด:**
- - **สีที่ชอบ:** 
- - **วงดนตรี/ศิลปินที่ชอบ:** 
- - **กีฬาที่ชอบ:** 
- - **วันเกิด:** 
- - **อาหารที่ชอบ:** 
- - **สัตว์เลี้ยงที่ชอบ:** 
+ - **ชื่อที่อยากให้เพื่อนเรียก:** สามารถ/แชมเปี้ยน
+ - **จังหวัดเกิด:** กรุงเทพ ฯ
+ - **สีที่ชอบ:** ฟ้า`rgb(5,195,221)`:large_blue_circle:	
+ - **วงดนตรี/ศิลปินที่ชอบ:** [Tilly birds](https://www.facebook.com/TILLYBIRDS):guitar:	
+ - **กีฬาที่ชอบ:** บาสเกตบอล:basketball_man:
+ - **วันเกิด:** 10 ก.ย. 2546
+ - **อาหารที่ชอบ:** มักกะโรนี:stew:	
+ - **สัตว์เลี้ยงที่ชอบ:** สุนัขพันธ์ Pomeranian:dog:	
 
 ###### Interviewed by _Veerapat Dujyongthummakhun_
 
@@ -180,7 +180,7 @@ Our team information!
 <!-- ---------------Noppakrit Nitichaisatit------------- -->
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/111488346/188277342-2ceac356-b1d1-4418-bf18-77b22c1dabcc.jpg" height="250">
+m
 </p>
 
 <h3 align="center">
@@ -188,16 +188,11 @@ Our team information!
 </h3>
 
 <p align="center">
-   <a href="https://www.instagram.com/p_ntpt/">Instagram Contact</a>
+
 </p>
  
  - **ชื่อที่อยากให้เพื่อนเรียก:** เปรม
  - **จังหวัดเกิด:** กาฬสินธุ์
- - **สีที่ชอบ:** ฟ้า
- - **วงดนตรี/ศิลปินที่ชอบ:** The Boyz
- - **กีฬาที่ชอบ:** แบดมินตัน
- - **วันเกิด:** 18 มีนาคม 2547
- - **อาหารที่ชอบ:** แซลมอน
- - **สัตว์เลี้ยงที่ชอบ:** จิ้งจอก
+
  
 ###### Interviewed by _Noppakrit Nitichaisatit_
