@@ -172,6 +172,8 @@ Our team information!
  - **อาหารที่ชอบ:** มักกะโรนี:stew:	
  - **สัตว์เลี้ยงที่ชอบ:** สุนัขพันธ์ Pomeranian:dog:	
 
+"จากการที่ได้สัม"
+
 ###### Interviewed by _Veerapat Dujyongthummakhun_
 
 <h1>
