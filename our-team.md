@@ -180,7 +180,7 @@ Our team information!
 <!-- ---------------Noppakrit Nitichaisatit------------- -->
 
 <p align="center">
-  <img src="">
+  <img src="https://user-images.githubusercontent.com/111488346/188277342-2ceac356-b1d1-4418-bf18-77b22c1dabcc.jpg" height="250">
 </p>
 
 <h3 align="center">
@@ -188,16 +188,16 @@ Our team information!
 </h3>
 
 <p align="center">
-   <a href="">Instagram Contact</a>
+   <a href="https://www.instagram.com/p_ntpt/">Instagram Contact</a>
 </p>
  
- - **ชื่อที่อยากให้เพื่อนเรียก:**
- - **จังหวัดเกิด:**
- - **สีที่ชอบ:** 
- - **วงดนตรี/ศิลปินที่ชอบ:** 
- - **กีฬาที่ชอบ:** 
- - **วันเกิด:** 
- - **อาหารที่ชอบ:** 
- - **สัตว์เลี้ยงที่ชอบ:** 
+ - **ชื่อที่อยากให้เพื่อนเรียก:** เปรม
+ - **จังหวัดเกิด:** กาฬสินธุ์
+ - **สีที่ชอบ:** ฟ้า
+ - **วงดนตรี/ศิลปินที่ชอบ:** The Boyz
+ - **กีฬาที่ชอบ:** แบดมินตัน
+ - **วันเกิด:** 18 มีนาคม 2547
+ - **อาหารที่ชอบ:** แซลมอน
+ - **สัตว์เลี้ยงที่ชอบ:** จิ้งจอก
  
 ###### Interviewed by _Noppakrit Nitichaisatit_
