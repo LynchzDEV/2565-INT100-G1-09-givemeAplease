@@ -142,7 +142,7 @@ Our team information!
  - **วันเกิด:** 9 กุมภาพันธ์ 2547
  - **อาหารที่ชอบ:** ทงคัตสึ:bento:	
  - **สัตว์เลี้ยงที่ชอบ:** สุนัข:service_dog:	
-`"จากการสัมภาษณ์ตอง ก่อนที่เราจะได้รู้จักกันตองเป็นคนที่เหมือนเป็นคนนิ่งๆ แต่พอได้เริ่มคุยและเรียนด้วยเป็นเวลา 2 อาทิตย์ก็ทำให้เห็นว่าตองเป็นคนที่เข้ากับคนง่ายพูดเก่ง เวลาทำงานกลุ่มในคาบตองก็ช่วยผมและแบ่งหน้าที่ในการนำเสนอเป็นอย่างดี"`
+
 ###### Interviewed by _Nattapat Thaworn_
 
 <h1>
@@ -180,7 +180,7 @@ Our team information!
 <!-- ---------------Noppakrit Nitichaisatit------------- -->
 
 <p align="center">
-m
+  <img src="https://user-images.githubusercontent.com/110712246/186105650-2ff6f149-3c8f-439d-8048-f02c69cdc8d6.jpg" height="300">
 </p>
 
 <h3 align="center">
@@ -188,11 +188,16 @@ m
 </h3>
 
 <p align="center">
-
+   <a href="https://www.instagram.com/p_ntpt">Instagram Contact</a>
 </p>
  
  - **ชื่อที่อยากให้เพื่อนเรียก:** เปรม
  - **จังหวัดเกิด:** กาฬสินธุ์
-
+ - **สีที่ชอบ:** ฟ้า`rgb(5,195,221)`:blue_square:	
+ - **วงดนตรี/ศิลปินที่ชอบ:** [The boyz](https://www.youtube.com/c/THEBOYZofficial/videos):studio_microphone:	
+ - **กีฬาที่ชอบ:** แบตมินตัน:badminton:	
+ - **วันเกิด:** 18 มีนาคม 2547
+ - **อาหารที่ชอบ:** แซลม่อน:fish:	
+ - **สัตว์เลี้ยงที่ชอบ:** จิ้งจอก:fox_face:
  
 ###### Interviewed by _Noppakrit Nitichaisatit_
