@@ -8,7 +8,8 @@ Our team information!
   <img src="assets/imgs/EarnPic.jpg" width="250" height="250">
 </p>
 
-### 1). Thanachanok Banjongjinda #### [Instagram Contact](https://instagram.com/arenleys?igshid=YmMyMTA2M2Y=)
+## 1). Thanachanok Banjongjinda 
+#### [Instagram Contact](https://instagram.com/arenleys?igshid=YmMyMTA2M2Y=)
 
  - **ชื่อที่อยากให้เพื่อนเรียก:** เอิร์น & ครัวซองค์ :croissant:	
  - **จังหวัดเกิด:** กรุงเทพ ฯ
