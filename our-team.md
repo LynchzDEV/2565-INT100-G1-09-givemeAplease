@@ -5,17 +5,12 @@ Our team information!
 <!-- ----------------Jinnawat Vilairat------------------ -->
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/100924535/185970557-f8dae058-eb03-4396-ae17-3054decf5ba0.jpg" width="250" height="250">
+  <img src="assets/imgs/EarnPic.jpg" width="250" height="250">
 </p>
 
-<h3 align="center">
- 1). Thanachanok Banjongjinda
-</h3>
+### 1). Thanachanok Banjongjinda
+#### [Instagram Contact](https://instagram.com/arenleys?igshid=YmMyMTA2M2Y=)
 
-<p align="center">
-   <a href="https://instagram.com/arenleys?igshid=YmMyMTA2M2Y=">Instagram Contact</a>
-</p>
- 
  - **ชื่อที่อยากให้เพื่อนเรียก:** เอิร์น & ครัวซองค์ :croissant:	
  - **จังหวัดเกิด:** กรุงเทพ ฯ
  - **สีที่ชอบ:** ชมพู `rgb(255,192,203)` :soap:
@@ -24,7 +19,8 @@ Our team information!
  - **วันเกิด:** 9 กุมพาพันธ์ 2547
  - **อาหารที่ชอบ:** ข้าวไข่ข้นเบคอน
  - **สัตว์เลี้ยงที่ชอบ:** สุนัขพันธุ์ Golden Retriever :dog2:	
-
+ 
+` จากการสัมภาษณ์ 'เอิร์น' ตอนแรกคิดว่าเอิร์นเป็นคนเข้าถึงยาก เป็นคนที่มีบ้านอยู่ในตัวกรุงเทพฯ จึงจำเป็นต้องเดินทางไปกลับทุกวัน ทำให้ไม่มีโอกาสได้คุยกันมากเท่าไหร่ แต่เมื่อมีโอกาสได้คุยกับตอนสัมภาษณ์ เอิร์นเป็นคนเฟรนด์ลี่ เข้าถึงง่าย และสนิทง่าย เป็นคนที่สามารถปรึกษาและพึ่งพาได้ มีรสนิยมดนตรีที่คล้ายกัน และเหมือนกันในหลายๆอย่าง ทำให้อยู่ด้วยกันแล้วสบายใจ`
 ###### Interviewed by _Jinnawat Vilairat_
 
 <h1>
@@ -34,16 +30,11 @@ Our team information!
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/111370275/185986021-a3cb5435-4b0f-49c6-8b48-34f1f493c42f.jpg" height="250">
+  <img src="assets/imgs/veerapat.jpg" height="250">
 </p>
 
-<h3 align="center">
- 2). Veerapat Dujyongthummakhun	
-</h3>
-
-<p align="center">
-   <a href="https://www.instagram.com/veerapat_a_/">Instagram Contact</a>
-</p>
+### 2). Veerapat Dujyongthummakhun	
+#### [Instagram Contact](https://www.instagram.com/veerapat_a_/)
  
  - **ชื่อที่อยากให้เพื่อนเรียก:** อั๋น
  - **จังหวัดเกิด:** กรุงเทพ ฯ
@@ -54,6 +45,8 @@ Our team information!
  - **อาหารที่ชอบ:** สเต็ก :shallow_pan_of_food:	
  - **สัตว์เลี้ยงที่ชอบ:** แมว :cat2:	
  
+` จากการสัมภาษณ์อั๋น อั๋นเป็นเพื่อนที่ชอบและรักการเล่นบาสเกตบอลเป็นอย่างมาก เพื่อนเป็นคนนิสัยดี คุยสนุกเข้าถึงง่าย ทำให้ได้ทำกิจกรรมร่วมกันหลายอย่าง เช่น เล่นกีฬาบาสเกตบอล และหลังจากได้เรียนด้วยกันมา
+ เพื่อนมีความตั้งใจในการเรียนเป็นอย่างมาก และหมั่นศึกษาหาความรู้ใหม่ๆอยู่เสมอ และได้ทราบอีกว่าเพื่อนชอบสัตว์เลี้ยงชนิดเดียวกันกับผม คือ แมว `
 ###### Interviewed by _Pakin Bunthr_ :pig:
 
 <h1>
@@ -62,17 +55,11 @@ Our team information!
 <!-- -------------Thanachanok Banjongjinda-------------- -->
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/110712895/186064137-b9e06913-300a-4f52-98c2-af02c71104ab.jpeg" height="300">
+  <img src="assets/imgs/iMG_KiNX.jpg" height="300">
 </p>
 
-<h3 align="center">
- 3). Pakin Bunthr
-
-</h3>
-
-<p align="center">
-   <a href="https://www.instagram.com/kinx_s1va/">Instagram Contact</a>
-</p>
+### 3). Pakin Bunthr
+#### [Instagram Contact](https://www.instagram.com/kinx_s1va/)
  
  - **ชื่อที่อยากให้เพื่อนเรียก:** คิน
  - **จังหวัดเกิด:** สมุทรปราการ
@@ -85,26 +72,20 @@ Our team information!
  - **วันเกิด:** 14/08/46
  - **อาหารที่ชอบ:** ผัดพริกแกงหมูกรอบไข่ข้น 
  - **สัตว์เลี้ยงที่ชอบ:** แมว:smiley_cat:	
-
+` จากการสัมภาษณ์'คิน'ในตอนแรกก่อนที่จะได้รู้จักกับคิน คินดูเป็นคนที่ค่อนข้างจริงจังกับการทำงาน อารมณ์ดี ใจดี แล้วก็ดูเข้ากับคนอื่นคนอื่นได้ง่าย ซึ่งหลังจากสัมภาษณ์ก็รู้สึกได้ว่าคินดูเป็นคนแบบนั้นจริงๆ นอกจากนั้นแล้วคินก็เป้นคนที่รักแมว ทำให้ดูมีความอ่อนโยน สีที่คินชอบก็คือสีดำ แดง ขาว ดูเท่และเข้ากับนิสัยคินมากๆ คิดว่าถ้าคนไม่เคยคุยกับคินอาจจะคิดว่าคินค่อนข้างเข้าถึงยากพอสมควร แต่ถ้าได้คุยจริงๆจะรู้ว่าคินไม่ได้เข้าถึงยากขนาดนั้นเลย`
 ###### Interviewed by _Thanachanok Banjongjinda_
 
 <h1>
 </h1>
 
-
 <!-- ------------Pongsapat Charoencharuskul------------- -->
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1007585180833292350/1011667183459389600/NEF_8147.jpg" height="250">
+  <img src="assets/imgs/IMG_3840.JPG" height="250">
 </p>
 
-<h3 align="center">
- 4). Jinnawat Vilairat
-</h3>
-
-<p align="center">
-   <a href="https://www.instagram.com/jinn.palmy_">Instagram Contact</a>
-</p>
+### 4). Jinnawat Vilairat
+#### [Instagram Contact](https://www.instagram.com/jinn.palmy_)
  
  - ชื่อที่อยากให้เพื่อนเรียก: ปาล์ม
  - จังหวัดเกิด: ฉะเชิงเทรา
@@ -114,7 +95,7 @@ Our team information!
  - วันเกิด: 2 ธันวาคม 2546
  - อาหารที่ชอบ: ราเมน:ramen:	
  - สัตว์เลี้ยงที่ชอบ: สุนัขพันธุ์ French Bulldog:dog:	
-
+` จากการสัมภาษณ์ปาล์ม ก่อนที่จะได้รู้จักกันปาล์มดูเป็นคนเงียบๆ แต่พอได้คุยกันปาล์มเป็นคนที่คุยง่าย เป็นคนที่ง่ายๆ อะไรก็ได้ และจากการเรียนรวมถึงการทำงานกลุ่มด้วยกันก็ทำให้ได้รู้ว่าปาล์มเป็นที่มีความเป็นผู้นำสูง แบ่งงานและช่วยเหลือเพื่อนในกลุ่มได้เป็นอย่างดี มีงานอดิเรกคือ ชอบอ่านหนังสือการ์ตูน ดูอนืเมะ  เล่นเกมหลากหลายแนวทั้ง valorant osu รวมถึงการออกกำลังกาย วิ่ง  `
 ###### Interviewed by _Pongsapat Charoencharuskul_
 
 <h1>
@@ -123,16 +104,11 @@ Our team information!
 <!-- ----------------Nattapat Thaworn------------------ -->
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/111488346/186746057-df36b5a8-0c4f-4cb6-8b79-e1de896cb31c.jpg" height="250">
+  <img src="assets/imgs/Tong.jpg" height="250">
 </p>
 
-<h3 align="center">
- 5). Pongsapat Charoencharuskul
-</h3>
-
-<p align="center">
-   <a href="https://www.instagram.com/_tongpc/">Instagram Contact</a>
-</p>
+### 5). Pongsapat Charoencharuskul
+####[Instagram Contact](https://www.instagram.com/_tongpc/)
  
  - **ชื่อที่อยากให้เพื่อนเรียก:** ตอง
  - **จังหวัดเกิด:** กรุงเทพ ฯ
@@ -142,7 +118,7 @@ Our team information!
  - **วันเกิด:** 9 กุมภาพันธ์ 2547
  - **อาหารที่ชอบ:** ทงคัตสึ:bento:	
  - **สัตว์เลี้ยงที่ชอบ:** สุนัข:service_dog:	
-
+` จากการสัมภาษณ์ตอง ก่อนที่จะได้รู้จักกับตองตองเป็นคนที่ดูนิ่งๆ แต่หลังจากที่เรียนด้วยกัน 2 อาทิตย์ก็ทำให้รู้ว่าจริงๆตองเป็นคนเฟรนลี่ เข้ากับคนอื่นง่าย ตอนทำงานกลุ่มด้วยกันในคาบตองก็ช่วยนำเสนองานต่างๆและช่วยเหลือเพื่อนๆได้เป็นอย่างดี`
 ###### Interviewed by _Nattapat Thaworn_
 
 <h1>
@@ -152,16 +128,11 @@ Our team information!
 <!-- -------------Veerapat Dujyongthummakhun----------- -->
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/93991274/185970801-91f55507-2993-439b-82d1-efd5b115492a.jpg" height="300">
+  <img src="assets/imgs/Smart.jpg" height="300">
 </p>
 
-<h3 align="center">
- 6). Noppakrit Nitichaisatit
-</h3>
-
-<p align="center">
-   <a href="https://www.instagram.com/smootysmart/">Instagram Contact</a>
-</p>
+### 6). Noppakrit Nitichaisatit
+#### [Instagram Contact](https://www.instagram.com/smootysmart/)
 
  - **ชื่อที่อยากให้เพื่อนเรียก:** สามารถ/แชมเปี้ยน
  - **จังหวัดเกิด:** กรุงเทพ ฯ
@@ -171,7 +142,7 @@ Our team information!
  - **วันเกิด:** 10 ก.ย. 2546
  - **อาหารที่ชอบ:** มักกะโรนี:stew:	
  - **สัตว์เลี้ยงที่ชอบ:** สุนัขพันธ์ Pomeranian:dog:	
-
+` จากการสัมภาษณ์ตอง ก่อนที่จะได้รู้จักกับตองตองเป็นคนที่ดูนิ่งๆ แต่หลังจากที่เรียนด้วยกัน 2 อาทิตย์ก็ทำให้รู้ว่าจริงๆตองเป็นคนเฟรนลี่ เข้ากับคนอื่นง่าย ตอนทำงานกลุ่มด้วยกันในคาบตองก็ช่วยนำเสนองานต่างๆและช่วยเหลือเพื่อนๆได้เป็นอย่างดี`
 ###### Interviewed by _Veerapat Dujyongthummakhun_
 
 <h1>
@@ -180,16 +151,11 @@ Our team information!
 <!-- ---------------Noppakrit Nitichaisatit------------- -->
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/110712246/186105650-2ff6f149-3c8f-439d-8048-f02c69cdc8d6.jpg" height="300">
+  <img src="assets/imgs/ตัวเอง(งาน).jpg" height="300">
 </p>
 
-<h3 align="center">
- 7). Nattapat Thaworn
-</h3>
-
-<p align="center">
-   <a href="https://www.instagram.com/p_ntpt">Instagram Contact</a>
-</p>
+### 7). Nattapat Thaworn
+####[Instagram Contact](https://www.instagram.com/p_ntpt)
  
  - **ชื่อที่อยากให้เพื่อนเรียก:** เปรม
  - **จังหวัดเกิด:** กาฬสินธุ์
@@ -199,5 +165,5 @@ Our team information!
  - **วันเกิด:** 18 มีนาคม 2547
  - **อาหารที่ชอบ:** แซลม่อน:fish:	
  - **สัตว์เลี้ยงที่ชอบ:** จิ้งจอก:fox_face:
- 
+` จากการสัมภาษณ์เปรม ในตอนแรกคิดว่าเปรมเป็นคนกรุงเทพและคิดว่าเป็นคนที่เฟรนลี่แล้วพอสัมภาษณ์ทำให้รู้ว่าเปรมไม่ใช่คนกรุงเทพแต่เป็นคนกาฬสินธุ์แต่เป็นคนเฟรนลี่ยางมี่คิดไว้จริงๆและเปรมยังเป็นคนที่ชอบเล่นกีฬาแบตมินตันและยังชอบที่จะกินแซลม่อนกับอาหารญี่ปุ่นอื่นๆอีกด้วยแล้วเปรมก็ชอบสีฟ้าและชื่อชอบจิ้งจอก`
 ###### Interviewed by _Noppakrit Nitichaisatit_
