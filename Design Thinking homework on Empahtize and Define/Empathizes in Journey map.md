@@ -47,7 +47,10 @@
 |   		 |		  |
 ------------
 ## Identified insights
-- 
+- อยากไปกินอาหาร
+- การแต่งหน้า
+- เลือกเสื้อผ้า
+- รถติด
 ------------
 ## PoV statement
 * #### Jinnawat Vilairat.
@@ -84,10 +87,10 @@
 		 
 ------------
 * #### Noppakrit Nitichaisatit
- >1. We Met: 		 
- >2. We were surprised to notice:		 
- >3. We wonder if this mean:		 
- >4. It would be game-changing to:
+ >1. We Met: `นางสาวธนชนก บรรจงจินดา ชื่นเล่น เอิร์น อายุ 18` 		 
+ >2. We were surprised to notice:`เอิร์นหลงทาง`		 
+ >3. We wonder if this mean:`เอิร์นไม่ชำนาญในด้านการเดินทาง`		 
+ >4. It would be game-changing to:`ควรจะสำรวจเส้นทางผ่านgoogle mapก่อนที่จะออกจากบ้าน`
 		 
 ------------
 * #### Nattapat Thaworn
