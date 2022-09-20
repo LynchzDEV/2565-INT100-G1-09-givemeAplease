@@ -28,7 +28,7 @@
 </p> -->
 ------------
 ## Summary/lessons learned from in class presentation and feedback.
-- 
+- `คนที่ออกไปสำรวจได้ใช้หลักEmpathizeกับคนที่Present โดยObserveคนที่Present และคนที่Presentกับคนที่ออกสำรวจก็ได้Engageกันเพื่อให้ได้ข้อมูลของอีกฝ่าย และสุดท้ายคนที่ออกไปสำรวจก็จะทำการImmerseเพื่อให้รู้จักกับกับคนที่Presentมากยิ่งขึ้น`
 ------------
 ## Revised Journey map, What-how-why, and/or Think-Feel.
 - #### Revised Journey map.
@@ -91,9 +91,15 @@
 		 
 ------------
 * #### Nattapat Thaworn
- >1. We Met: 		 
- >2. We were surprised to notice:		 
- >3. We wonder if this mean:		 
+ >1. We Met:
+                 - `ชื่อ: เอิร์น (ครัวซองค์)`
+		 - `อายุ: 18 ปี`
+		 - `อาชีพ: นักศึกษา` 		 
+ >2. We were surprised to notice:
+                 - `เอิร์นเป็นคนที่มีเสื้อผ้าเยอะมากกกกกก`			 
+ >3. We wonder if this mean:	
+                 - `ด้วยความที่มีเสื้อผ้าเยอะจนเกินไป ทำให้เลือกไม่ได้สักที`
  >4. It would be game-changing to:
+                 - `ขายหรือบริจาคเสื้อผ้าที่ไม่ได้ใส่แล้วหรือมีโอกาสได้ใส่น้อย และจัดหมวดหมู่เสื้อผ้า`
 		 
 ------------
