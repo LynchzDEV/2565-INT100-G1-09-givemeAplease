@@ -23,18 +23,20 @@
 - ##### `ไม่มีความสุขจากการที่ เซ็งที่ต้องแต่งตัวเสื้อผ้าเยอะมากเลือกไม่ถูก ระหว่างเดินทางรถติด`
 ------------
 ## Journey map from class.
-<!-- <p align="center">
-  <img src="" alt="" height="">
-</p> -->
+<p align="center">
+  <img src="assets/Journey map.jpg" alt="iMG" height="500">
+</p> 
+
 ------------
 ## Summary/lessons learned from in class presentation and feedback.
 - `คนที่ออกไปสำรวจได้ใช้หลักEmpathizeกับคนที่Present โดยObserveคนที่Present และคนที่Presentกับคนที่ออกสำรวจก็ได้Engageกันเพื่อให้ได้ข้อมูลของอีกฝ่าย และสุดท้ายคนที่ออกไปสำรวจก็จะทำการImmerseเพื่อให้รู้จักกับกับคนที่Presentมากยิ่งขึ้น`
 ------------
 ## Revised Journey map, What-how-why, and/or Think-Feel.
 - #### Revised Journey map.
-<!-- <p align="center">
-  <img src="" alt="" height="">
-</p> -->
+<p align="center">
+  <img src="assets/Journey map i wish.jpg" alt="iMG" height="500">
+</p> 
+
 - #### I wish, I like.
 | I Wish.	 | I Like.	  |
 | :------------ | :------------ |
@@ -73,10 +75,10 @@
 		 
 ------------
 * #### Pakin Bunthr
- >1. We Met: 		 
- >2. We were surprised to notice:		 
- >3. We wonder if this mean:		 
- >4. It would be game-changing to:
+ >1. We Met:`เอิร์นส่วนใหญ่เรียก คซ ว่าที่ดาวประจำสาขา IT`	  		 
+ >2. We were surprised to notice:`คซ เป็นคนที่เสื้อผ้าเยอะและแต่งตัวได้หลากหลายสไตล์`	 		 
+ >3. We wonder if this mean:`ปัญหาเกี่ยวกับการเดินทาง ทำให้ต้องใช้เวลาเพิ่มมากขึ้น`	 		 
+ >4. It would be game-changing to:`ให้คุณแม่มารับที่ที่หอพักเพื่อไปพร้อมกัน`
 		 
 ------------
 * #### Pongsapat Charoencharuskul
