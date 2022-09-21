@@ -24,7 +24,7 @@
 ------------
 ## Journey map from class.
 <p align="center">
-  <img src="assets/Journey map.jpg" alt="iMG" height="500">
+  <img src="assets/Journey map in class.jpg" alt="iMG" height="500">
 </p> 
 
 ------------
