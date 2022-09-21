@@ -110,7 +110,7 @@ Our team information!
 </p>
 
 ### 5). Pongsapat Charoencharuskul
-####[Instagram Contact](https://www.instagram.com/_tongpc/)
+#### [Instagram Contact](https://www.instagram.com/_tongpc/)
  
  - **ชื่อที่อยากให้เพื่อนเรียก:** ตอง
  - **จังหวัดเกิด:** กรุงเทพ ฯ
@@ -145,7 +145,7 @@ Our team information!
  - **วันเกิด:** 10 ก.ย. 2546
  - **อาหารที่ชอบ:** มักกะโรนี:stew:	
  - **สัตว์เลี้ยงที่ชอบ:** สุนัขพันธ์ Pomeranian:dog:	
- 
+
 ` จากการสัมภาษณ์ตอง ก่อนที่จะได้รู้จักกับตองตองเป็นคนที่ดูนิ่งๆ แต่หลังจากที่เรียนด้วยกัน 2 อาทิตย์ก็ทำให้รู้ว่าจริงๆตองเป็นคนเฟรนลี่ เข้ากับคนอื่นง่าย ตอนทำงานกลุ่มด้วยกันในคาบตองก็ช่วยนำเสนองานต่างๆและช่วยเหลือเพื่อนๆได้เป็นอย่างดี`
 ###### Interviewed by _Veerapat Dujyongthummakhun_
 
@@ -159,7 +159,7 @@ Our team information!
 </p>
 
 ### 7). Nattapat Thaworn
-####[Instagram Contact](https://www.instagram.com/p_ntpt)
+#### [Instagram Contact](https://www.instagram.com/p_ntpt)
  
  - **ชื่อที่อยากให้เพื่อนเรียก:** เปรม
  - **จังหวัดเกิด:** กาฬสินธุ์
