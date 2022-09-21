@@ -19,22 +19,24 @@
 `
 ------------
 ## What you have inferred as Think-Feel.
-- ##### 
-- ##### 
+- ##### `มีความสุขจากการที่ แม่โทรมาบอกว่าจะไปกินข้าวนอกบ้าน เสิร์ชเลือกร้านที่จะไปกิน ตอนแต่งหน้าอารมณ์ดี ไปถึงร้านสั่งอาหารมากิน`
+- ##### `ไม่มีความสุขจากการที่ เซ็งที่ต้องแต่งตัวเสื้อผ้าเยอะมากเลือกไม่ถูก ระหว่างเดินทางรถติด`
 ------------
 ## Journey map from class.
-<!-- <p align="center">
-  <img src="" alt="" height="">
-</p> -->
+<p align="center">
+  <img src="assets/Journey map.jpg" alt="iMG" height="500">
+</p> 
+
 ------------
 ## Summary/lessons learned from in class presentation and feedback.
 - `คนที่ออกไปสำรวจได้ใช้หลักEmpathizeกับคนที่Present โดยObserveคนที่Present และคนที่Presentกับคนที่ออกสำรวจก็ได้Engageกันเพื่อให้ได้ข้อมูลของอีกฝ่าย และสุดท้ายคนที่ออกไปสำรวจก็จะทำการImmerseเพื่อให้รู้จักกับกับคนที่Presentมากยิ่งขึ้น`
 ------------
 ## Revised Journey map, What-how-why, and/or Think-Feel.
 - #### Revised Journey map.
-<!-- <p align="center">
-  <img src="" alt="" height="">
-</p> -->
+<p align="center">
+  <img src="assets/Journey map i wish.jpg" alt="iMG" height="500">
+</p> 
+
 - #### I wish, I like.
 | I Wish.	 | I Like.	  |
 | :------------ | :------------ |
@@ -47,7 +49,10 @@
 |   		 |		  |
 ------------
 ## Identified insights
-- 
+- อยากไปกินอาหาร --> อยากที่จะไปกินบุฟเฟ่อาหารเกาหลีที่ร้านชื่อว่า tenjo ณ ที่ siamcenter
+- การแต่งหน้า --> อยากที่จะทำให้ตัวเองดูดีขึ้นสวยขึ้นเพื่อที่จะได้ให้คนอื่นมองเห็นว่าตัวเองสวยมากแค่ไหน
+- เลือกเสื้อผ้า --> อยากที่จะมีลุคที่ดูดีในสายตาคนรอบข้างเลยคิดนานเพื่อหาเสื้อผ้าที่จะมีลุคใหม่ๆของตัวเอง
+- รถติด,รถไฟฟ้าคนเยอะ --> ตอนออกไปข้างนอกให้พ่อไปส่งแล้วออกไปในเวลาที่คนอื่นออกไปข้างนอกเหมือนกันและต้องไปขึ้นBTSต่อและคนที่ขึ้นBTSเยอะมาก
 ------------
 ## PoV statement
 * #### Jinnawat Vilairat.
@@ -70,24 +75,24 @@
 		 
 ------------
 * #### Pakin Bunthr
- >1. We Met: 		 
- >2. We were surprised to notice:		 
- >3. We wonder if this mean:		 
- >4. It would be game-changing to:
+ >1. We Met:`เอิร์นส่วนใหญ่เรียก คซ ว่าที่ดาวประจำสาขา IT`	  		 
+ >2. We were surprised to notice:`คซ เป็นคนที่เสื้อผ้าเยอะและแต่งตัวได้หลากหลายสไตล์`	 		 
+ >3. We wonder if this mean:`ปัญหาเกี่ยวกับการเดินทาง ทำให้ต้องใช้เวลาเพิ่มมากขึ้น`	 		 
+ >4. It would be game-changing to:`ให้คุณแม่มารับที่ที่หอพักเพื่อไปพร้อมกัน`
 		 
 ------------
 * #### Pongsapat Charoencharuskul
- >1. We Met: 		 
- >2. We were surprised to notice:		 
- >3. We wonder if this mean:		 
- >4. It would be game-changing to:
+ >1. We Met: `เอิร์นที่เพื่อนเรียกว่าครัวซองต์ เรียนสาขา it ที่มจธ.`		 
+ >2. We were surprised to notice: `จากบ้านเอิร์นเดินทางไปร้านอาหารรถติดมาก` 		 
+ >3. We wonder if this mean: `การเดินทางเหนื่อยมากและใช้เวลานาน ส่งผลต่อความรู้สึกอยากกิน`		 
+ >4. It would be game-changing to: `สั่งออนไลน์มากินสามารถแก้ปัญหาเรื่องของการเดินทางได้`
 		 
 ------------
 * #### Noppakrit Nitichaisatit
- >1. We Met: 		 
- >2. We were surprised to notice:		 
- >3. We wonder if this mean:		 
- >4. It would be game-changing to:
+ >1. We Met: `นางสาวธนชนก บรรจงจินดา ชื่นเล่น เอิร์น อายุ 18` 		 
+ >2. We were surprised to notice:`เอิร์นหลงทาง`		 
+ >3. We wonder if this mean:`เอิร์นไม่ชำนาญในด้านการเดินทาง`		 
+ >4. It would be game-changing to:`ควรจะสำรวจเส้นทางผ่านgoogle mapก่อนที่จะออกจากบ้าน`
 		 
 ------------
 * #### Nattapat Thaworn
