@@ -55,16 +55,16 @@
 # Jouney Maps
 
 <p align="center">
-  <img src="asset/JMยายหรั่ง.png" alt="jmยายหรั่ง" height="370">
+  <img src="asset/JMยายหรั่ง.PNG" alt="jmยายหรั่ง" height="370">
 </p>
 <p align="center">
-  <img src="asset/JMยายอ้วน.png" alt="jmยายอ้วน" height="370">
+  <img src="asset/JMยายอ้วน.PNG" alt="jmยายอ้วน" height="370">
 </p> 
 <p align="center">
-  <img src="asset/JMยายอ้วน.png" alt="jmยายอ้วน" height="370">
+  <img src="asset/JMยายอ้วน.PNG" alt="jmยายอ้วน" height="370">
 </p> 
 <p align="center">
-  <img src="asset/JMยายอ้วน.png" alt="jmยายอ้วน" height="370">
+  <img src="asset/JMยายอ้วน.PNG" alt="jmยายอ้วน" height="370">
 </p> 
 
 # PoV
