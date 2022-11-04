@@ -61,10 +61,10 @@
   <img src="asset/JMยายอ้วน.PNG" alt="jmยายอ้วน" height="370">
 </p> 
 <p align="center">
-  <img src="asset/JMยายอ้วน.PNG" alt="jmยายอ้วน" height="370">
+  <img src="asset/JMยาย80.PNG" alt="jmยาย80" height="370">
 </p> 
 <p align="center">
-  <img src="asset/JMยายอ้วน.PNG" alt="jmยายอ้วน" height="370">
+  <img src="asset/JMยาย90.PNG" alt="jmยาย90" height="370">
 </p> 
 
 # PoV
